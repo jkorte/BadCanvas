@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+ul {
+    position: absolute;
+    left: 0;
+    top: 0;
+}
