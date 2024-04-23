@@ -1,0 +1,15 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: BadCanvas
+message: 'If you use or build on this work, please cite it as:'
+type: software
+authors:
+  - given-names: James
+    family-names: Baker
+  - given-names: Jessica
+    family-names: Korte
+    email: jessicakorte@gmail.com
+    orcid: 'https://orcid.org/0000-0002-4412-7199'
+date-released: '2024-04-20'
