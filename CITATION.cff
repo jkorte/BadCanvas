@@ -6,10 +6,11 @@ title: BadCanvas
 message: 'If you use or build on this work, please cite it as:'
 type: software
 authors:
-  - given-names: James
-    family-names: Baker
   - given-names: Jessica
     family-names: Korte
     email: jessicakorte@gmail.com
     orcid: 'https://orcid.org/0000-0002-4412-7199'
+  - given-names: James
+    family-names: Baker
+  
 date-released: '2024-04-20'
